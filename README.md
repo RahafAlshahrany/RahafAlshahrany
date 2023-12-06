@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RahafAlshahrany
-- 👀 I’m interested in ML,DL 
+- 👋 Hi, I’m Rahaf Alshahrany
+- 👀 I’m interested in ML and DL 
 - 🌱 I’m currently learning  NLP and AWS 
 - 📫 How to reach me www.linkedin.com/in/rahafalshahrani11
 
