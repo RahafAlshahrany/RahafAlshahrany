@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Rahaf Alshahrany
-- 👀 I’m interested in ML and DL 
-- 🌱 I’m currently learning  NLP and AWS 
-- 📫 How to reach me www.linkedin.com/in/rahafalshahrani11
+👋 Hi, I’m Rahaf  
 
-<!---
-RahafAlshahrany/RahafAlshahrany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 PMP® | Certified KPI Professional  
+📊 Data-Driven Project Manager  
+
+I combine Project Management and Data Analytics to build dashboards, design KPIs, and transform project data into strategic insights.
+
+🔎 My GitHub showcases PMO dashboards, performance analytics, and business intelligence projects using Power BI, Excel, and Python.
+
+📫 Let’s connect: www.linkedin.com/in/rahafalshahrani11
